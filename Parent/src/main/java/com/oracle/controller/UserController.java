@@ -7,4 +7,8 @@ public class UserController {
         System.out.println("admin");
     }
 
+    public void update(){
+        System.out.println("haha");
+    }
 }
+
